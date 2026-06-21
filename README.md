@@ -57,6 +57,9 @@ Calculates estimated monthly EMI based on:
 - Real-time prediction results without page refresh
 
 ---
+## Live Demo
+
+https://bengaluru-house-price-predictor-stdi.onrender.com
 
 ## Machine Learning Workflow
 
